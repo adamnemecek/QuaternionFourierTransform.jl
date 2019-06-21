@@ -1,3 +1,4 @@
+module Ex
 using Quaternions
 using QuaternionFourierTransform
 using Images
@@ -139,3 +140,5 @@ function main()
 end
 
 main()
+
+end

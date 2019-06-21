@@ -1,0 +1,4 @@
+name = "QuaternionFourierTransform"
+uuid = "824a2678-93c0-11e9-0439-1716edc4887e"
+authors = ["Adam Nemecek <adamnemecek@gmail.com>"]
+version = "0.1.0"
